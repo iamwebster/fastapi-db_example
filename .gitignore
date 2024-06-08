@@ -1,3 +1,6 @@
 __pycache__
 .env
 .mypy_cache
+venv
+guide*
+postgres-data
